@@ -1,0 +1,7 @@
+F:\Chips Challenge\Chips Challenge\Chips ChallengeContent\obj\x86\Debug\Chips ChallengeContent.contentprojResolveAssemblyReference.cache
+E:\Chips Challenge\Chips Challenge\Chips ChallengeContent\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Chips Challenge\Chips Challenge\Chips ChallengeContent\obj\x86\Debug\Chips ChallengeContent.contentprojResolveAssemblyReference.cache
+J:\Chips Challenge 2\Chips Challenge\Chips ChallengeContent\obj\x86\Debug\Chips ChallengeContent.contentprojResolveAssemblyReference.cache
+E:\Chips Challenge 2\Chips Challenge\Chips ChallengeContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Chips Challenge 2\Chips Challenge\Chips ChallengeContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Complete\Chips Challenge\Chips Challenge\Chips ChallengeContent\obj\x86\Debug\Chips ChallengeContent.contentprojResolveAssemblyReference.cache

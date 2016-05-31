@@ -1,0 +1,650 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>emptybrick.png</Source>
+      <Name>emptybrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\emptybrick.xnb</Output>
+      <Time>2013-03-23T17:50:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>staticchip.png</Source>
+      <Name>staticchip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\staticchip.xnb</Output>
+      <Time>2013-03-23T17:51:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>block.png</Source>
+      <Name>block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\block.xnb</Output>
+      <Time>2013-03-23T17:50:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>chip.png</Source>
+      <Name>chip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\chip.xnb</Output>
+      <Time>2013-03-22T10:20:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>leftchip.png</Source>
+      <Name>leftchip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\leftchip.xnb</Output>
+      <Time>2013-03-23T17:51:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>rightchip.png</Source>
+      <Name>rightchip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\rightchip.xnb</Output>
+      <Time>2013-03-23T17:51:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>upchip.png</Source>
+      <Name>upchip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\upchip.xnb</Output>
+      <Time>2013-03-23T17:51:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>downarrow.png</Source>
+      <Name>downarrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\downarrow.xnb</Output>
+      <Time>2013-03-23T17:50:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>endlevel.png</Source>
+      <Name>endlevel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\endlevel.xnb</Output>
+      <Time>2013-03-23T17:50:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fire.png</Source>
+      <Name>fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\fire.xnb</Output>
+      <Time>2013-03-23T17:50:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fireboot.png</Source>
+      <Name>fireboot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\fireboot.xnb</Output>
+      <Time>2013-03-23T17:50:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gate.png</Source>
+      <Name>gate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\gate.xnb</Output>
+      <Time>2013-03-23T17:50:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ice.png</Source>
+      <Name>ice</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\ice.xnb</Output>
+      <Time>2013-03-23T17:51:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>iceskate.png</Source>
+      <Name>iceskate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\iceskate.xnb</Output>
+      <Time>2013-03-23T17:51:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>leftarrow.png</Source>
+      <Name>leftarrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\leftarrow.xnb</Output>
+      <Time>2013-03-23T17:51:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pushblock.png</Source>
+      <Name>pushblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\pushblock.xnb</Output>
+      <Time>2013-03-23T17:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>questionmark.png</Source>
+      <Name>questionmark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\questionmark.xnb</Output>
+      <Time>2013-03-23T17:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>rightarrow.png</Source>
+      <Name>rightarrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\rightarrow.xnb</Output>
+      <Time>2013-03-23T17:51:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>suctionfeet.png</Source>
+      <Name>suctionfeet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\suctionfeet.xnb</Output>
+      <Time>2013-03-23T17:51:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>teleport.png</Source>
+      <Name>teleport</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\teleport.xnb</Output>
+      <Time>2013-03-23T17:51:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>uparrow.png</Source>
+      <Name>uparrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\uparrow.xnb</Output>
+      <Time>2013-03-23T17:51:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>water.png</Source>
+      <Name>water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\water.xnb</Output>
+      <Time>2013-03-23T17:51:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>waterflipper.png</Source>
+      <Name>waterflipper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\waterflipper.xnb</Output>
+      <Time>2013-03-23T17:51:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>agent.png</Source>
+      <Name>agent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\agent.xnb</Output>
+      <Time>2013-03-23T17:50:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>bluekey.png</Source>
+      <Name>bluekey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\bluekey.xnb</Output>
+      <Time>2013-03-23T17:50:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>bluelock.png</Source>
+      <Name>bluelock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\bluelock.xnb</Output>
+      <Time>2013-03-23T17:50:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>bottomlefticebumper.png</Source>
+      <Name>bottomlefticebumper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\bottomlefticebumper.xnb</Output>
+      <Time>2013-03-23T17:50:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>closedgreenblock.png</Source>
+      <Name>closedgreenblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\closedgreenblock.xnb</Output>
+      <Time>2013-03-23T17:50:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>greenbutton.png</Source>
+      <Name>greenbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\greenbutton.xnb</Output>
+      <Time>2013-03-23T17:51:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>greenkey.png</Source>
+      <Name>greenkey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\greenkey.xnb</Output>
+      <Time>2013-03-23T17:51:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>greenlock.png</Source>
+      <Name>greenlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\greenlock.xnb</Output>
+      <Time>2013-03-23T17:51:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>lefticebumper.png</Source>
+      <Name>lefticebumper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\lefticebumper.xnb</Output>
+      <Time>2013-03-23T17:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mud.png</Source>
+      <Name>mud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\mud.xnb</Output>
+      <Time>2013-03-23T17:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mudblock.png</Source>
+      <Name>mudblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\mudblock.xnb</Output>
+      <Time>2013-03-23T17:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>noshadowleftchip.png</Source>
+      <Name>noshadowleftchip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\noshadowleftchip.xnb</Output>
+      <Time>2013-03-23T17:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>noshadowrightchip.png</Source>
+      <Name>noshadowrightchip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\noshadowrightchip.xnb</Output>
+      <Time>2013-03-23T17:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>noshadowstaticchip.png</Source>
+      <Name>noshadowstaticchip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\noshadowstaticchip.xnb</Output>
+      <Time>2013-03-23T17:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>noshadowupchip.png</Source>
+      <Name>noshadowupchip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\noshadowupchip.xnb</Output>
+      <Time>2013-03-23T17:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>opengreenblock.png</Source>
+      <Name>opengreenblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\opengreenblock.xnb</Output>
+      <Time>2013-03-23T17:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>opengreenbrick.png</Source>
+      <Name>opengreenbrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\opengreenbrick.xnb</Output>
+      <Time>2013-03-23T17:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>redkey.png</Source>
+      <Name>redkey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\redkey.xnb</Output>
+      <Time>2013-03-23T17:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>redlock.png</Source>
+      <Name>redlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\redlock.xnb</Output>
+      <Time>2013-03-23T17:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>swimleft.png</Source>
+      <Name>swimleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\swimleft.xnb</Output>
+      <Time>2013-03-23T17:51:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>swimright.png</Source>
+      <Name>swimright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\swimright.xnb</Output>
+      <Time>2013-03-23T17:51:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>swimstatic.png</Source>
+      <Name>swimstatic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\swimstatic.xnb</Output>
+      <Time>2013-03-23T17:51:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>swimup.png</Source>
+      <Name>swimup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\swimup.xnb</Output>
+      <Time>2013-03-23T17:51:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>toplefticebumper.png</Source>
+      <Name>toplefticebumper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\toplefticebumper.xnb</Output>
+      <Time>2013-03-23T17:51:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>yellowkey.png</Source>
+      <Name>yellowkey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\yellowkey.xnb</Output>
+      <Time>2013-03-23T17:51:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>yellowlock.png</Source>
+      <Name>yellowlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\yellowlock.xnb</Output>
+      <Time>2013-03-23T17:51:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gravel.png</Source>
+      <Name>gravel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\gravel.xnb</Output>
+      <Time>2013-03-23T17:50:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>monsterleft.png</Source>
+      <Name>monsterleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\monsterleft.xnb</Output>
+      <Time>2013-03-23T19:49:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>monsterright.png</Source>
+      <Name>monsterright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\monsterright.xnb</Output>
+      <Time>2013-03-23T19:49:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>monsterstatic.png</Source>
+      <Name>monsterstatic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\monsterstatic.xnb</Output>
+      <Time>2013-03-23T19:49:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>monsterup.png</Source>
+      <Name>monsterup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\monsterup.xnb</Output>
+      <Time>2013-03-23T19:49:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>movingfire.png</Source>
+      <Name>movingfire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\movingfire.xnb</Output>
+      <Time>2013-03-23T17:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blueball.png</Source>
+      <Name>blueball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\blueball.xnb</Output>
+      <Time>2013-03-24T14:27:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pinkball.png</Source>
+      <Name>pinkball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\pinkball.xnb</Output>
+      <Time>2013-03-24T14:32:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>yellowball.png</Source>
+      <Name>yellowball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\yellowball.xnb</Output>
+      <Time>2013-03-24T14:27:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>splash.png</Source>
+      <Name>splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\splash.xnb</Output>
+      <Time>2013-03-24T14:34:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>burntchip.png</Source>
+      <Name>burntchip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\burntchip.xnb</Output>
+      <Time>2013-03-24T18:44:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>transformblock.png</Source>
+      <Name>transformblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\transformblock.xnb</Output>
+      <Time>2013-03-25T10:26:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>bottomrighticebumper.png</Source>
+      <Name>bottomrighticebumper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\bottomrighticebumper.xnb</Output>
+      <Time>2013-03-26T17:38:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>toprighticebumper.png</Source>
+      <Name>toprighticebumper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\toprighticebumper.xnb</Output>
+      <Time>2013-03-26T17:38:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-03-22T17:30:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2013-03-22T17:30:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont3.spritefont</Source>
+      <Name>SpriteFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\SpriteFont3.xnb</Output>
+      <Time>2013-03-22T18:39:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ZARATHUSTRACUT.mp3</Source>
+      <Name>ZARATHUSTRACUT</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\ZARATHUSTRACUT.xnb</Output>
+      <Extra>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\ZARATHUSTRACUT.wma</Extra>
+      <Time>2013-03-26T18:42:14-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Complete\Chips Challenge\Chips Challenge\Chips ChallengeContent\</RootDirectory>
+      <LoggerRootDirectory>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Complete\Chips Challenge\Chips Challenge\Chips ChallengeContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Complete\Chips Challenge\Chips Challenge\Chips Challenge\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-02-21T15:25:36.3214247-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
